@@ -5,5 +5,4 @@
 - ⚙️ My specialty : .net, asp.net, wpf, postgresql
 - 🌱 I’m currently learning vue.js
 - 💬 Ask me about .net, wpf, postgresql, dapper, ef core, docker
-- 📫 How to reach me: ...
 
